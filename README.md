@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning React
 - 💬 Ask me about HTML , CSS , JS , BootStrap 
-- 📫 How to reach me: [https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png]([url](https://telegram.me/anonymous_pupil))  @anonymous_pupil
+- 📫 How to reach me: https://telegram.me/anonymous_pupil  @anonymous_pupil
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
