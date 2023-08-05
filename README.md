@@ -1,5 +1,5 @@
 <center>
-            <img width=100% height=400 src="https://cdn.dribbble.com/users/148731/screenshots/6662134/nowhiring-2019-dribbble.gif" alt="">
+            <img width=100% height=400 src="https://camo.githubusercontent.com/5ec43abbe9922123ea93f9b92d778fd99f02c53c4726bd1d80bf083e4e229286/68747470733a2f2f7777772e686f72697a6f6e742e636f6d2e68722f706f73616f2f66726f6e74656e642d646576656c6f7065722e676966" alt="">
 </center>
 <br/>
 <h1 align="center">Hi 👋, I'm Bobur_coder</h1>
